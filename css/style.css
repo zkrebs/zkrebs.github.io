@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url('//fonts.googleapis.com/css?family=Amatic+SC|Fondamento|Jim+Nightshade|Quintessential|Raleway|Josefin+Sans');
 
 a {text-decoration: none !important; }
@@ -39,46 +38,4 @@ p {
 .icon {
   text-align:center;
   margin:auto;
-=======
-@import url('//fonts.googleapis.com/css?family=Amatic+SC|Fondamento|Jim+Nightshade|Quintessential|Raleway|Josefin+Sans');
-
-a {text-decoration: none !important; }
-
-
-div.dropdown {
-  position:relative;
-  left:5px;
-  text-decoration:none !important;
 }
-
-#nav-toggle {
-  font-family: 'Amatic SC' !important;
-  font-size:3em;
-  color: #000;
-}
-
-h1 {
-  font-family: 'Amatic SC' !important;
-  z-index: 2;
-  font-size: 3em;
-  text-align: center;
-}
-
-.metal {
-  font-family: 'Amatic SC' !important;
-}
-
-.bigtext {
-  font-size: 5em;
-}
-
-p {
-  font-family:'Josefin Sans';
-  font-size:1.25em;
-}
-
-.icon {
-  text-align:center;
-  margin:auto;
->>>>>>> a2600933ac357069df881636e969e19ec4a8594b
-  }
